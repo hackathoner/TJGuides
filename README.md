@@ -14,13 +14,10 @@ Have an account page for users to edit their settings or to delete their account
 <br><br>
 
 Have a rating system for study guides - 1 Hour
-<br><br>
 
 ~~Allow users to report a study guide - 15 Mins~~
-<br><br>
 
 ~~Set viewports -  10 Mins~~
-<br><br>
 
 ~~Add search functionality - 1 Hour~~
 
