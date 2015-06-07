@@ -3,7 +3,7 @@ Its TJ Study Guides
 
 TODO
 
-Auto-redirect on sign up to the login page - 10 Mins
+~~Auto-redirect on sign up to the login page - 10 Mins~~
 
 Autoredirect to the create.php page and say if file was uploaded or not - 10 Mins
 
