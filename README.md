@@ -5,7 +5,7 @@ TODO
 
 ~~Auto-redirect on sign up to the login page - 10 Mins~~
 
-Autoredirect to the create.php page and say if file was uploaded or not - 10 Mins
+Fix all login/signup/creation pages to show user feedback if the user messes up a field - 1 Hour
 
 Have an account page for users to edit their settings or to delete their account - 1 Hour
 
