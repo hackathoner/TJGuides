@@ -4,12 +4,15 @@ Its TJ Study Guides
 TODO
 
 
-
-Have a rating system for study guides - 1 Hour
-
-Fix class fields and make sure it saves and have class categories- 1 Hour
-
 Escape everything with htmlspecialchars() - 1 Hour
+
+Add a footer - 15 Mins
+
+Add a bug report option - 15 Mins
+
+Fix up study guide downloading - 15 Mins
+
+~~Fix class fields and make sure it saves and have class categories- 1 Hour~~
 
 ~~Put website on heroku and use custom domain name - 1 Hour~~
 
